@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-ui",
+  "version": "1.0.0",
+  "homepage": "http://bootstrap-ui.com",
+  "authors": [
+    "Thanh Luu <thanhlt90@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.1"
+  }
+}
